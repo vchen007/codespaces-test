@@ -1,4 +1,4 @@
-num_employees = 260
+num_employees = 245
 
 while num_employees < 250:
     print("Small Business")
